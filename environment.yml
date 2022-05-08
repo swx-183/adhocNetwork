@@ -1,0 +1,10 @@
+dependencies:
+- python=3
+- pip:
+  - IPython
+  - ipykernel
+  - tensorflow
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
